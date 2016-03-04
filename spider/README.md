@@ -8,4 +8,4 @@ jav.av
 ![alt tag](https://github.com/yanshuicc/no-body-konws-this-project/blob/master/spider/image/table.png?raw=true)
 
 ##爬取结果
-![alt tag](https://github.com/yanshuicc/no-body-konws-this-project/blob/master/spider/image/table.png?raw=true)
+![alt tag](https://github.com/yanshuicc/no-body-konws-this-project/image/result.png)
