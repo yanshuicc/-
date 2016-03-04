@@ -5,7 +5,7 @@
 ##数据库只有一张表
 jav.av
 
-[](https://github.com/yanshuicc/no-body-konws-this-project/image/table.png)
+![alt tag](https://github.com/yanshuicc/no-body-konws-this-project/blob/master/spider/image/table.png?raw=true)
 
 ##爬取结果
-[](https://github.com/yanshuicc/no-body-konws-this-project/image/result.png)
+![alt tag](https://github.com/yanshuicc/no-body-konws-this-project/blob/master/spider/image/result.png?raw=true)
